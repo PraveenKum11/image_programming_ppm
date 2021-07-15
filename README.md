@@ -6,11 +6,11 @@ In this project I have tried to create:
 
 ## Results:
 ### Filters
-![Result Preview](https://github.com/PraveenKum11/cpp_projects/blob/main/misc/itachi_out.png)
-![Result Preview](https://github.com/PraveenKum11/cpp_projects/blob/main/misc/mikasa.png)
+![Result Preview](https://github.com/PraveenKum11/image_programming_ppm/blob/main/misc/itachi_out.png)
+![Result Preview](https://github.com/PraveenKum11/image_programming_ppm/blob/main/misc/mikasa.png)
 
 ### Patterns
-![Result Preview](https://github.com/PraveenKum11/cpp_projects/blob/main/misc/pattern.png)
+![Result Preview](https://github.com/PraveenKum11/image_programming_ppm/blob/main/misc/pattern.png)
 
 ## Installation:
 1. `git clone` the project.
